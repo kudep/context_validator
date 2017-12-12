@@ -69,6 +69,7 @@ target/
 
 # Jupyter Notebook
 .ipynb_checkpoints
+*session.ipynb
 
 # pyenv
 .python-version
@@ -99,3 +100,8 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# atom ftp
+.ftpconfig
+.ftpignore
+
